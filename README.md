@@ -15,3 +15,4 @@ Foi utilizado o framework Laravel.
 - Xampp;
 - Mysql;
 - Laravel PHP;
+- Thunder Client
